@@ -15,14 +15,17 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
+  unipi_logo,
+  united_kingdom,
+  france,
+  github,
+  instagram,
+  twitter,
+  github2
 } from "../assets";
 
 export const navLinks = [
@@ -118,15 +121,15 @@ const experiences = [
   {
     title: "Master in English",
     company_name: "C2 (ECPE)-University of Michigan",
-    icon: starbucks,
-    iconBg: "#383E56",
+    icon: united_kingdom,
+    iconBg: "#E6DEDD",
     date: "2013-2019",
     
   },
   {
     title: "Master in Frace",
     company_name: "B2 (DELF)-Ministere de l'Education Nationale",
-    icon: tesla,
+    icon: france,
     iconBg: "#E6DEDD",
     date: "2015-2019",
    
@@ -134,10 +137,28 @@ const experiences = [
   {
     title: "Computer Science",
     company_name: "Pireus - University",
-    icon: shopify,
-    iconBg: "#383E56",
+    icon: unipi_logo,
+    iconBg: "#E6DEDD",
     date: "2021-now",
     
+  },
+];
+
+export const socialMedia = [
+  {
+    id: "social-media-1",
+    icon: instagram,
+    link: "https://www.instagram.com/manos_nik5/",
+  },
+  {
+    id: "social-media-2",
+    icon: github,
+    link: "https://github.com/manos500",
+  },
+  {
+    id: "social-media-4",
+    icon: twitter,
+    link: "https://twitter.com/Nikitakis_Manos",
   },
 ];
 
