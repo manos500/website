@@ -29,6 +29,9 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import france from "./france.png";
 import united_kingdom from "./united_kingdom.png";
+import github2 from "./github2.svg";
+import twitter from "./twitter.png";
+import instagram from "./instagram.svg";
 
 export {
   logo,
@@ -62,5 +65,8 @@ export {
   unipi_logo,
   france,
   united_kingdom,
+  twitter,
+  instagram,
+  github2,
 
 };
