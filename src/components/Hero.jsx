@@ -1,11 +1,9 @@
-import { useState } from 'react'
 import {styles} from '../styles'
 import { Link } from 'react-router-dom';
 
 
 const Hero = () => {
 
-  const [active,setActive] = useState('')
 
   return (
   <section className='relative w-full h-screen mx-auto flex flex-col'>
