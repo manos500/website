@@ -63,11 +63,6 @@ const socialMedia = [
     icon: github,
     link: "https://github.com/manos500",
   },
-  {
-    id: "social-media-4",
-    icon: twitter,
-    link: "https://twitter.com/Nikitakis_Manos",
-  },
 ];
 
 
